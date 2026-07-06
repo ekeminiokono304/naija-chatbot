@@ -1,4 +1,7 @@
-bilingual-nigerian-chatbot/
+## Project Structure
+
+```text
+naija-chatbot/
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
